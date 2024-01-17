@@ -1,13 +1,13 @@
 # 🚀 Sobre mim
 
-Olá, meu nome é Micael e sou um desenvolvedor Full Stack. Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Minha paixão está no desenvolvimento web e back-end, onde posso utilizar minhas habilidades para criar soluções inovadoras e eficientes.
+Olá, meu nome é Micael e sou um desenvolvedor Full Stack. Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Minha paixão está no desenvolvimento web e back-end, onde posso utilizar minhas habilidades para criar soluções inovadoras e eficientes. Meu objetivo é criar websites e desenvolver aplicações, oferecendo soluções inovadoras para pessoas e atendendo às necessidades específicas dos clientes em todas as etapas de desenvolvimento.
 
 ## 👩‍💻 Linguagens
 
- <span><img  height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></span>
-<span><img  height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> </span>
-<span><img  height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></span>
-<span><img  height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> </span>s
+<span><img  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></span>
+<span><img  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></span>
+<span><img  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></span>
+<span><img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></span>
 
 
 ## 🔗 Contato
