@@ -2,6 +2,8 @@
 
 Olá, meu nome é Micael e sou um Desenvolvedor Web e formado em Análise e Desenvolvimento de Sistemas. Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Meu objetivo é criar websites e desenvolver aplicações, oferecendo soluções inovadoras para pessoas e atendendo às necessidades específicas dos clientes em todas as etapas de desenvolvimento.
 
+<span>portfolio: </span><a href="https://site-portfolio-hmtq.vercel.app">Micael-William-Vercel</a>
+
 ## 👩‍💻 Trabalho
 
 <span><img  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></span>
@@ -10,9 +12,10 @@ Olá, meu nome é Micael e sou um Desenvolvedor Web e formado em Análise e Dese
 <span><img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></span>
 
 
+
+
 ## 🔗 Contato
 
-<span>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]( https://site-portfolio-hmtq.vercel.app/)</span>
 <span>[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/micael-william1024)</span>
 <span>[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mw931991@gmail.com)<span>
 
