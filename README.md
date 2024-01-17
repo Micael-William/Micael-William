@@ -2,7 +2,7 @@
 
 Olá, meu nome é Micael e sou um Desenvolvedor Web e formado em Análise e Desenvolvimento de Sistemas. Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Meu objetivo é criar websites e desenvolver aplicações, oferecendo soluções inovadoras para pessoas e atendendo às necessidades específicas dos clientes em todas as etapas de desenvolvimento.
 
-<span>portfolio: </span><a href="https://site-portfolio-hmtq.vercel.app">Micael-William-Vercel</a>
+<span>portfolio: </span><a href="https://site-portfolio-hmtq.vercel.app" target="_blank">Micael-William-Vercel</a>
 
 ## 👩‍💻 Trabalho
 
