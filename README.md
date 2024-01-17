@@ -7,8 +7,6 @@ Olá, meu nome é Micael e sou um desenvolvedor Full Stack. Como desenvolvedor, 
  <span><img  height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></span>
 <span><img  height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> </span>
 <span><img  height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></span>
-<span><img  height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> </span>
-<span><img  height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></span>
 <span><img  height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> </span>
 
 Front-end
