@@ -18,8 +18,6 @@ Olá, meu nome é Micael e sou um desenvolvedor Full Stack. Como desenvolvedor, 
 
 <br>
 
-## 💻 Mais sobre o meu perfil
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Micael-William&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=pt-br&hide_border=false&order=1" height="144" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Micael-William&locale=pt-br&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="144" alt="streak graph"  />
