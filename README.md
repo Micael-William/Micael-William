@@ -1,6 +1,6 @@
 # 🚀 Sobre mim
 
-Olá, meu nome é Micael e sou um desenvolvedor Full Stack. Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Minha paixão está no desenvolvimento web e back-end, onde posso utilizar minhas habilidades para criar soluções inovadoras e eficientes. Meu objetivo é criar websites e desenvolver aplicações, oferecendo soluções inovadoras para pessoas e atendendo às necessidades específicas dos clientes em todas as etapas de desenvolvimento.
+Olá, meu nome é Micael e sou um Desenvolvedor Web e formado em Análise e Desenvolvimento de Sistemas. Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Meu objetivo é criar websites e desenvolver aplicações, oferecendo soluções inovadoras para pessoas e atendendo às necessidades específicas dos clientes em todas as etapas de desenvolvimento.
 
 ## 👩‍💻 Linguagens
 
