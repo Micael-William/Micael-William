@@ -2,7 +2,7 @@
 
 Olá, meu nome é Micael e sou um Desenvolvedor Web e formado em Análise e Desenvolvimento de Sistemas. Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Meu objetivo é criar websites e desenvolver aplicações, oferecendo soluções inovadoras para pessoas e atendendo às necessidades específicas dos clientes em todas as etapas de desenvolvimento.
 
-## 👩‍💻 Linguagens
+## 👩‍💻 Trabalho
 
 <span><img  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></span>
 <span><img  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></span>
