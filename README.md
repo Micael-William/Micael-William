@@ -1,28 +1,46 @@
-# 🚀 Sobre mim
+<p align="left">Olá, me chamo Micael William, e sou programador Full Stack.</p>
 
-Olá, meu nome é Micael e sou um Desenvolvedor Web e formado em Análise e Desenvolvimento de Sistemas. Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Meu objetivo é criar websites e desenvolver aplicações, oferecendo soluções inovadoras para pessoas e atendendo às necessidades específicas dos clientes em todas as etapas de desenvolvimento.
+###
 
-<span>portfolio: </span><a href="https://site-portfolio-hmtq.vercel.app" target="_blank">Micael-William-Vercel</a>
+<h2 align="left">Sobre Mim</h2>
 
-## 👩‍💻 Trabalho
+###
 
-<span><img  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></span>
-<span><img  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></span>
-<span><img  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></span>
-<span><img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></span>
+<p align="left">Sou um Desenvolvedor Web e Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Meu objetivo é criar websites e desenvolver aplicações, oferecendo soluções inovadoras para pessoas e atendendo às necessidades específicas dos clientes em todas as etapas de desenvolvimento.</p>
 
+###
 
+<p align="left">🎓 formação: Análise e Desenvolvimento de Sistemas<br>📚 Cursando: Ciência da Computação<br>🎯 portfólio: https://micael-william.netlify.app/<br>📧 email: mw931991@gmail.com<br>🔗 linkedin: http://www.linkedin.com/in/micael-william1024</p>
 
+###
 
-## 🔗 Contato
+<h2 align="left">Trabalho</h2>
 
-<span>[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/micael-william1024)</span>
-<span>[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mw931991@gmail.com)<span>
+###
 
-<br>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Micael-William&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=pt-br&hide_border=false&order=1" height="144" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Micael-William&locale=pt-br&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="144" alt="streak graph"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Micael-William&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Micael-William&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
