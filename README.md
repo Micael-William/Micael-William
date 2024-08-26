@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou um Desenvolvedor Web e Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Meu objetivo é criar websites e desenvolver aplicações, oferecendo soluções inovadoras para pessoas e atendendo às necessidades específicas dos clientes em todas as etapas de desenvolvimento.</p>
+<p align="left">Sou um Desenvolvedor Web Full Stack e Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Meu objetivo é criar websites e desenvolver aplicações, oferecendo soluções inovadoras para pessoas e atendendo às necessidades específicas dos clientes em todas as etapas de desenvolvimento.</p>
 
 ###
 
