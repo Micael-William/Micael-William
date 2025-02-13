@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">Sou um Desenvolvedor Web Full Stack e Como desenvolvedor, estou sempre buscando expandir meus conhecimentos e me manter atualizado. Meu objetivo é criar websites e desenvolver aplicações, oferecendo soluções inovadoras para pessoas e atendendo às necessidades específicas dos clientes em todas as etapas de desenvolvimento.</p>
+<p align="left">Desenvolvedor web com experiência em criação e otimização de aplicações, sempre em busca de inovação e aprimoramento contínuo. Possuo experiência no desenvolvimento de aplicações web escaláveis e seguras, com foco em back-end e integração com bancos de dados. 
+
+Minha especialidade está em criar soluções eficientes utilizando PHP e o framework Laravel, além de trabalhar com JavaScript para interfaces dinâmicas e interativas. Tenho sólidos conhecimentos em arquitetura de software, APIs RESTful e segurança da informação. .</p>
 
 ###
 
