@@ -12,7 +12,7 @@ Minha especialidade está em criar soluções eficientes utilizando PHP e o fram
 
 ###
 
-<p align="left">🎓 formação: Análise e Desenvolvimento de Sistemas<br>📚 Cursando: Ciência da Computação<br>🎯 portfólio: https://micael-william.netlify.app/<br>📧 email: mw931991@gmail.com<br>🔗 linkedin: http://www.linkedin.com/in/micael-william1024</p>
+<p align="left">🎓 formação: Análise e Desenvolvimento de Sistemas<br>📚 Cursando: Ciência da Computação<br>🎯 portfólio: https://micael-william.netlify.app/<br>📧 email: mw931991@gmail.com<br></p>
 
 ###
 
