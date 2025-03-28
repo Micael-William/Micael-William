@@ -47,23 +47,13 @@ Minha especialidade está em criar soluções eficientes utilizando PHP e o fram
 </div>
 
 ###
+-->
+<h2 align="left">Sobre Mim</h2>
 
+###
 
-# 👋 Olá, visitante!
+<p align="left">Desenvolvedor web com experiência em criação e otimização de aplicações, sempre em busca de inovação e aprimoramento contínuo. Possuo experiência no desenvolvimento de aplicações web escaláveis e seguras, com foco em back-end e integração com bancos de dados. 
 
-😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
-
-## 🌟 Informações Públicas
-
-Meu nome é **[Seu Nome Aqui]** (também conhecido(a) como **[Seu Nickname]**). Atualmente, moro em **[Cidade, País]** e meu objetivo é ajudar outros desenvolvedores a alcançar seus sonhos e metas. 🚀
-
-No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde **[Ano]** venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
-
-Também realizo transmissões ao vivo de codificação 🎥, explorando novos conceitos e ensinando de forma interativa, promovendo o conceito de "aprender em público". Além disso, escrevo artigos e produzo vídeos, experiências que têm sido transformadoras na minha trajetória como desenvolvedor(a). ✍️📹
-
-## 📝 Informações Detalhadas
-
-<!-- Coloque suas informações pessoais que você deseja compartilhar -->
 
 - 👤 **Nome:** Micael William  
 - 📍 **Localização:** São Paulo - SP - Brasil   
@@ -75,4 +65,4 @@ Também realizo transmissões ao vivo de codificação 🎥, explorando novos co
 - 💡 Comecei a programar em **2022** e, desde então, venho me desafiando e aprendendo coisas novas.   
 - 🌐 Tenho experiência em diversos projetos,  aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.   
 
----
+
