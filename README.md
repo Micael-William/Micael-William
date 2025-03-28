@@ -73,7 +73,6 @@ Também realizo transmissões ao vivo de codificação 🎥, explorando novos co
 
 
 - 💡 Comecei a programar em **2022** e, desde então, venho me desafiando e aprendendo coisas novas.   
-- 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.   
 - 🌐 Tenho experiência em diversos projetos,  aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.   
 
 ---
