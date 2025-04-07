@@ -6,21 +6,21 @@
 
 <h1 align="left" style="border-bottom: 2px solid #fff">Sobre Mim</h1>
 <div>
-  <p align="left">Olá, me chamo Micel William e sou Desenvolvedor Front-End com experiência em criação e otimização de aplicações, sempre em busca de inovação e aprimoramento contínuo. Possuo experiência no desenvolvimento de aplicações web escaláveis e seguras, com foco em front-end e  back-end e integração com APIs. 
+  <p align="left">Olá! Me chamo Micael William e sou Desenvolvedor Front-End com experiência em criação, otimização e manutenção de aplicações web modernas. Tenho paixão por tecnologia, sempre em busca de inovação e aprimoramento contínuo.
 
-  Comecei a programar em **2022** e, desde então, venho me desafiando e aprendendo coisas novas.   
-  Tenho experiência em diversos projetos,  aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.</p>
+Atuo no desenvolvimento de aplicações escaláveis, seguras e de alta performance, com foco em experiência do usuário, interfaces responsivas e integração com APIs REST. Embora minha especialidade seja o front-end, também possuo conhecimento em back-end, o que me permite atuar de forma mais completa nos projetos.
 
-  <span> **Contato:** </span><br>
-  e-mail: mw931991@gmail.com<br>
-  linkedin: <a target="_blank" href="https://www.linkedin.com/in/micael-william">
-  https://www.linkedin.com/in/micael-william</a>
+Comecei minha jornada na programação em 2022 e, desde então, venho me desafiando com novos projetos, adquirindo experiência prática e expandindo minha visão sobre o desenvolvimento de software.</p>
+
+<span> **Contato** </span><br>
+📧 E-mail: mw931991@gmail.com<br>
+💼 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/micael-william">https://www.linkedin.com/in/micael-william</a>
 
   <!-- 👤 **Nome:** Micael William   -->
-  📍 **Localização:** São Paulo - SP - Brasil   
-  💻 **Stack:** PHP, Laravel, React, TypeScript, JavaScript, Node, MySQL,  
-  📚 **Aprendizado Atual:** TypeScript<br>
-  🎓 **Formação:** Análise e Desenvolvimento de Sistemas   
+ 📍 **Localização:**  São Paulo - SP - Brasil<br>
+💻 **Stack:** React, TypeScript, JavaScript, PHP, Laravel, Node.js, MySQL<br>
+📚 **Atualmente aprendendo:** TypeScript<br>
+🎓 **Formação:** Análise e Desenvolvimento de Sistemas
 </div>
 
 <br>
