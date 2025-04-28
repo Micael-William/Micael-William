@@ -20,7 +20,7 @@ Comecei minha jornada na programação em 2022 e, desde então, venho me desafia
  📍 **Localização:**  São Paulo - SP - Brasil<br>
 💻 **Stack:** React, TypeScript, JavaScript, PHP, Laravel, Node.js, MySQL<br>
 📚 **Atualmente aprendendo:** TypeScript<br>
-🎓 **Formação:** Análise e Desenvolvimento de Sistemas
+<!--🎓 **Formação:** Análise e Desenvolvimento de Sistemas -->
 </div>
 
 <br>
