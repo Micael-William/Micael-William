@@ -1,9 +1,10 @@
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=&fontSize14&fontColor=fff&animation=twinkling&fontAlignY=35"> -->
 
 
+![p](https://github.com/user-attachments/assets/74022001-fbb1-478a-8a9b-ae81dc4590fa)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Micael+William;)](https://git.io/typing-svg) 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Micael+William;)](https://git.io/typing-svg) -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO, +MY+NAME+IS+Micael+William)](https://git.io/typing-svg) -->
 
@@ -48,7 +49,9 @@ Comecei minha jornada na programação em 2022 e, desde então, venho me desafia
 
 <!-- ### Other Knowledge:
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTM![p](https://github.com/user-attachments/assets/45698b82-c4a2-4023-816b-2f81752a56d3)
+![p](https://github.com/user-attachments/assets/74022001-fbb1-478a-8a9b-ae81dc4590fa)
+L-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
