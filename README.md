@@ -24,7 +24,7 @@ Comecei minha jornada na programação em 2022 e, desde então, venho me desafia
  📍 **Localização:**  São Paulo - SP - Brasil<br>
 💻 **Stack:** React, TypeScript, JavaScript, PHP, Laravel, Node.js, MySQL<br>
 <!-- 📚 **Atualmente aprendendo:** TypeScript<br> -->
-<!--🎓 **Formação:** Análise e Desenvolvimento de Sistemas -->
+🎓 **Formação:** Análise e Desenvolvimento de Sistemas
 </div>
 
 <br>
@@ -43,6 +43,8 @@ Comecei minha jornada na programação em 2022 e, desde então, venho me desafia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"     height="50" width="50" alt="mongodb logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                   height="50" width="50" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"       height="50" width="50" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"                 height="55" width="55" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"                 height="55" width="55" alt="laravel" />
 </div>
 
 <br>
