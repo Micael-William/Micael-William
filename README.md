@@ -10,7 +10,7 @@
 
 <h1 align="left" style="border-bottom: 2px solid #fff">Sobre Mim</h1>
 <div>
-  <p align="left">Olá! Me chamo Micael William e sou Desenvolvedor Front-End com experiência em criação, otimização e manutenção de aplicações web modernas. Tenho paixão por tecnologia, sempre em busca de inovação e aprimoramento contínuo.
+  <p align="left">Olá! Me chamo Micael William e sou Desenvolvedor Full Stack com experiência em criação, otimização e manutenção de aplicações web modernas. Tenho paixão por tecnologia, sempre em busca de inovação e aprimoramento contínuo.
 
 Atuo no desenvolvimento de aplicações escaláveis, seguras e de alta performance, com foco em experiência do usuário, interfaces responsivas e integração com APIs REST. Embora minha especialidade seja o front-end, também possuo conhecimento em back-end, o que me permite atuar de forma mais completa nos projetos.
 
