@@ -23,12 +23,8 @@ Comecei minha jornada na programação em 2022 e, desde então, venho me desafia
   <!-- 👤 **Nome:** Micael William   -->
  📍 **Localização:**  São Paulo - SP - Brasil<br>
 💻 **Stack:** React, TypeScript, JavaScript, PHP, Laravel, Node.js, MySQL<br>
-<!-- 📚 **Atualmente aprendendo:** TypeScript<br> -->
-🎓 **Formação:** Análise e Desenvolvimento de Sistemas<br>
-🎓 **Cursando:** Ciência da Computação
-
+🎓 **Formação:** Análise e Desenvolvimento de Sistemas
 </div>
-
 <br>
 <h2>Habilidades</h2>
 
