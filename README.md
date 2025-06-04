@@ -4,7 +4,7 @@
 <!-- ![p](https://github.com/user-attachments/assets/74022001-fbb1-478a-8a9b-ae81dc4590fa) -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Micael+William;)](https://git.io/typing-svg) 
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Micael+William;)](https://git.io/typing-svg) -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO, +MY+NAME+IS+Micael+William)](https://git.io/typing-svg) -->
 
