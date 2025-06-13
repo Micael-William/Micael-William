@@ -14,7 +14,6 @@
 
 Atuo no desenvolvimento de aplicações escaláveis, seguras e de alta performance, com foco em experiência do usuário, interfaces responsivas e integração com APIs REST. Embora minha especialidade seja o front-end, também possuo conhecimento em back-end, o que me permite atuar de forma mais completa nos projetos.
 
-Comecei minha jornada na programação em 2022 e, desde então, venho me desafiando com novos projetos, adquirindo experiência prática e expandindo minha visão sobre o desenvolvimento de software.</p>
 
 <span> **Contato** </span><br>
 📧 E-mail: mw931991@gmail.com<br>
