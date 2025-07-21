@@ -17,7 +17,8 @@ Atuo no desenvolvimento de aplicações escaláveis, seguras e de alta performan
 
 <span> **Contato** </span><br>
 📧 E-mail: mw931991@gmail.com<br>
-💼 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/micael-william">https://www.linkedin.com/in/micael-william</a>
+💼 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/micael-william">https://www.linkedin.com/in/micael-william</a><br>
+💼 Portifolio: <a target="_blank" href="https://micaelwilliam-dev.vercel.app/">https://micaelwilliam-dev.vercel.app/</a>
 
   <!-- 👤 **Nome:** Micael William   -->
  📍 **Localização:**  São Paulo - SP - Brasil<br>
